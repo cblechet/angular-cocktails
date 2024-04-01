@@ -10,21 +10,21 @@ export class CocktailListComponent {
   cocktails: Cocktail[] = [
     {
       name: 'Mojito',
-      img: 'https://i.topito.com/4-sh8qTVEGUOesl5ftnQA3oAS_kraVLngTVsGL0FMtM=/670x986/smart/filters:fill(white):format(webp):quality(70)/https%3A%2F%2Fmedia.topito.com%2Fwp-content%2Fuploads%2F2017%2F07%2FMojito.jpg',
+      img: 'https://www.hangoverweekends.co.uk/media/15505/mojito.jpg?width=500&height=375',
       description:
-        'Vous votez pour le mojito alors que vous oubliez systématiquement d’y rajouter l’indispensable jaraba de goma. Vous buvez de l’eau aromatisée à la menthe. Vous êtes comme ça, vous, pas exigeants pour un sou, toujours content de pouvoir voyager sans bouger depuis une place en terrasse. Quitte à avoir un goût âcre dans la bouche.',
+        'The Mojito complimenting summer perfectly with a fresh minty taste. The mixture of white rum, mint, lime juice, sugar and soda water is crisp and clean with a relatively low alcohol content, the soda water can be replaced with sprite or 7-up. When preparing a mojito always crush the mint leaves as opposed to dicing to unlock oils that will assist with enhancing the minty flavour.',
     },
     {
-      name: 'test1',
-      img: 'https://i.topito.com/4-sh8qTVEGUOesl5ftnQA3oAS_kraVLngTVsGL0FMtM=/670x986/smart/filters:fill(white):format(webp):quality(70)/https%3A%2F%2Fmedia.topito.com%2Fwp-content%2Fuploads%2F2017%2F07%2FMojito.jpg',
+      name: 'Cosmopolitan',
+      img: 'https://www.hangoverweekends.co.uk/media/15507/gallery-1430408520-dmg-cosmopolitan-cocktail-001.jpg?width=330px&height=407px',
       description:
-        'Vous votez pour le mojito alors que vous oubliez systématiquement d’y rajouter l’indispensable jaraba de goma. Vous buvez de l’eau aromatisée à la menthe. Vous êtes comme ça, vous, pas exigeants pour un sou, toujours content de pouvoir voyager sans bouger depuis une place en terrasse. Quitte à avoir un goût âcre dans la bouche.',
+        'The tangy concoction of vodka, triple sec, lime juice and cranberry juice has managed to leapfrog the venerable screwdriver as many vodka drinkers prefer the Cosmopolitan’s cleaner and slightly tart taste. The keys to the preparation of a Cosmopolitan are a good brand of cranberry juice and Cointreau Triple Sec, two essential elements to the drink.',
     },
     {
-      name: 'test2',
-      img: 'https://i.topito.com/4-sh8qTVEGUOesl5ftnQA3oAS_kraVLngTVsGL0FMtM=/670x986/smart/filters:fill(white):format(webp):quality(70)/https%3A%2F%2Fmedia.topito.com%2Fwp-content%2Fuploads%2F2017%2F07%2FMojito.jpg',
+      name: 'Mai Tai',
+      img: 'https://www.hangoverweekends.co.uk/media/15506/mm-cocktail-guide-maitai-590x375.jpg?width=434px&height=276px',
       description:
-        'Vous votez pour le mojito alors que vous oubliez systématiquement d’y rajouter l’indispensable jaraba de goma. Vous buvez de l’eau aromatisée à la menthe. Vous êtes comme ça, vous, pas exigeants pour un sou, toujours content de pouvoir voyager sans bouger depuis une place en terrasse. Quitte à avoir un goût âcre dans la bouche.',
+        'The Mai Tai is a Polynesian-style cocktail that has a fruity tropical taste sweet and vibrant. The mixture of light and dark rum, orange curacao, orgeat syrup and lime juice has been a symbol of Tahitian culture ever since the drink was first created.',
     },
   ];
 }
